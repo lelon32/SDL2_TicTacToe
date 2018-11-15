@@ -1,4 +1,4 @@
-# SDL2_TicTacToe - C++/SDL2 Learning Project
+# Tic Tac Toe - C++/SDL2 Learning Project
 Compiled for Windows with MinGW and GLEW
 
 TO DO:
