@@ -1,5 +1,7 @@
-# SDL2_TicTacToe
+# SDL2_TicTacToe - C++/SDL2 Learning Project
 Compiled for Windows with MinGW and GLEW
+
+TO DO:
 
 Implement AI
 -impossible mode Minimax algorithm
