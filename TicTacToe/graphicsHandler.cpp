@@ -450,7 +450,8 @@ void GraphicsHandler::reset()
 *********************************************************************/
 void GraphicsHandler::cleanUp()
 {
-    reset( 3 );
+    //reset( 3 );
+    reset();
 
     ticTacToeTextures.cleanUp();
 
