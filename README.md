@@ -12,5 +12,6 @@ The executable has already been precompiled for the Windows environment using Mi
 
 **TO DO:**
 
+- [X] Implement basic 2 player game and graphics.
 - [ ] Implement Minimax algorithm unbeatable AI.
 - [ ] Utilize SDL_net to implement multiplayer games over network.
