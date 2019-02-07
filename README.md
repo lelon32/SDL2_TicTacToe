@@ -5,7 +5,7 @@
 
 Please view the demo [video](https://youtu.be/kFdgwVa-3Kw).
 
-## Compilation
+## Compilation Instructions
 The executable has already been precompiled for the Windows environment using MinGW and GLEW. The necessary .dll files are included.
 
 ###### Note: Anti-virus programs may need to whitelist the TicTacToe.exe executable.
